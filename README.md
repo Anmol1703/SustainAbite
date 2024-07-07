@@ -1,2 +1,2 @@
 # SustainAbite
-DevSoc 2024
+SustainAbite is a web application designed to address the significant issue of food waste in restaurants and cafes by connecting establishments with consumers interested in purchasing surplus food items at discounted prices. By leveraging technology, dynamic pricing algorithms, and a user-friendly interface, EcoEats aims to create a profitable business model that benefits both businesses and consumers while promoting sustainability.
